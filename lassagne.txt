@@ -1,2 +1,5 @@
+Aantal personen:
 Ingredienten:
-Bereidingswijze
+Bereidingswijze:
+Bereidingstijd:
+
